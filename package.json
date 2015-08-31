@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.0",
+    "promise": "^7.0.3",
+    "websocket": "^1.0.19",
+    "zepto": "0.0.4"
+  }
+}
